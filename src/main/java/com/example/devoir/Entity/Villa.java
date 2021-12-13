@@ -4,6 +4,5 @@ public class Villa {
 String name;
 int Price;
 
-String HashCode;
 
 }
